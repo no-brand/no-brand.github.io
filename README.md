@@ -1,6 +1,6 @@
 # no-brand.github.io
 
-![](https://github.com/no-brand/no-brand.github.io/blob/master/assets/img/profile.jpg?raw=true)
+![](https://github.com/no-brand/no-brand.github.io/blob/master/assets/img/no-brand-screenshot.png?raw=true)
 
 ## Features
 - [Google Fonts](https://fonts.google.com/)
