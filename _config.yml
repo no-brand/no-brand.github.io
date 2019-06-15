@@ -23,7 +23,7 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: no-brand # add your discus identifier
+discus-identifier: no-brand-github-io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
