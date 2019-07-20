@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to measure web page loading performance
-date: 2019-07-19 23:00:00 +0900
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+date: 2019-07-20 19:00:00 +0900
+description: When you have a trouble with web page loading performance, you need to treat your resources carefully. Big size images must causes delay. # Add post description (optional)
 img: chrome-devtools.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [web, chrome-devtools, performance]
