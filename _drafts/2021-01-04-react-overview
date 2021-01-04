@@ -1,0 +1,11 @@
+# React
+
+## State and Lifecycle
+React Lifecycle Diagram : 호출되는 함수에 대한 정보
+https://programmingwithmosh.com/javascript/react-lifecycle-methods/
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+https://github.com/wojtekmaj/react-lifecycle-methods-diagram
+
+1. Mounting
+2. Updating
+3. Unmounting
