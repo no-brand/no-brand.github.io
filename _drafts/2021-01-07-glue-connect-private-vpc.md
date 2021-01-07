@@ -9,6 +9,7 @@
 5. Dashboard 를 통한 모니터링
 
 ## Infrastructure Diagram
+<img src="/files/data/glue-connection-private-vpc.png" width="100%">
 
 ## Glue & Elasticsearch (in Private Subnet) 연동하기
 > Pyspark 를 이용해서 하나의 Batch(ETL) 작업을 수행 할 예정입니다. ES 에서 데이터를 읽어오고(Extraction), 데이터의 포맷을 변경한 후 (Trasformation), S3 의 특정장소에 저장(Load) 하는 간단한 작업입니다.
