@@ -40,7 +40,7 @@ plugins:
 ## /index.html, shows first n posts
 ## /page/2/index.html, shows next n+1 ~ 2n posts, and so on.
 ## [reference] https://jekyllrb-ko.github.io/docs/pagination/
-paginate: 6 # max number of pages on one page
+paginate: 8 # max number of pages on one page
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
